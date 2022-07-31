@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gopnik1132
 - 👀 Guns, military, history
 - 🌱 Kotlin
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... nothing... for now 😊
 - 📫 How to reach me ... You can't... for now 😊
 
 <!---
